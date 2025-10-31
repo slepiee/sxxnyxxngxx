@@ -1,0 +1,114 @@
+{
+  "jastipOrders": [
+    {
+      "orderId": 1,
+      "purchaseDay": "Day 1",
+      "tipeJastip": "OTS",
+      "circleId": 5426,
+      "circleName": "Tenjin Scrollworks",
+      "boothNos": ["AA-17", "AA-18"],
+      "artist": [],
+      "customer": "027",
+      "isBothDaysBooth": true,
+      "items": [
+        {
+          "detail": "Mousepad Genshin (1) 150k/ea",
+          "qty": 1,
+          "unitPrice": 150000,
+          "note": "varian Liyue",
+          "secured": false,
+          "failed": false
+        },
+        {
+          "detail": "Mousepad HSR Gepard ver. (1) 175k/ea",
+          "qty": 1,
+          "unitPrice": 175000,
+          "secured": false,
+          "failed": false
+        }
+      ],
+      "totalExpected": 325000,
+      "totalActual": 0,
+      "notes": "",
+      "attachments": [
+        {
+          "type": "catalog",
+          "imageUrl": "https://example.com/catalog-1.jpg",
+          "label": "catalog-1"
+        },
+        {
+          "type": "catalog",
+          "imageUrl": "https://example.com/catalog-2.jpg",
+          "label": "catalog-2"
+        }
+      ],
+      "done": false
+    },
+    {
+      "orderId": 2,
+      "purchaseDay": "Day 1",
+      "tipeJastip": "PU",
+      "circleId": 6601,
+      "circleName": "Loot & Fund",
+      "boothNos": ["P-10a", "P-10b"],
+      "artist": "Qowlyn",
+      "customer": "027",
+      "isBothDaysBooth": true,
+      "items": [
+        {
+          "detail": "Acrylic Keychain - Hoshi",
+          "qty": 1,
+          "unitPrice": 0,
+          "secured": false,
+          "failed": false
+        },
+        {
+          "detail": "SVT Sticker - OT13",
+          "qty": 1,
+          "unitPrice": 0,
+          "secured": false,
+          "failed": false
+        },
+        {
+          "detail": "SVT Meme Sticker - All Type",
+          "qty": 1,
+          "unitPrice": 0,
+          "secured": false,
+          "failed": false
+        }
+      ],
+      "totalExpected": 0,
+      "totalActual": 0,
+      "infoBooking": "a.n. Selvi Mantoni; Invoice No. HIU-010",
+      "notes": "",
+      "attachments": [
+        {
+          "type": "catalog",
+          "imageUrl": "https://example.com/catalog-1.jpg",
+          "label": "catalog-1"
+        },
+        {
+          "type": "catalog",
+          "imageUrl": "https://example.com/catalog-2.jpg",
+          "label": "catalog-2"
+        },
+        {
+          "type": "invoice",
+          "imageUrl": "https://example.com/invoice.jpg",
+          "label": "invoice"
+        },
+        {
+          "type": "payment-proof",
+          "imageUrl": "https://example.com/payment-proof.jpg",
+          "label": "payment-proof"
+        },
+        {
+          "type": "pickup-ticket",
+          "imageUrl": "https://example.com/pickup-ticket.jpg",
+          "label": "pickup-ticket"
+        }
+      ],
+      "done": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "jastipCustomers": [
+      {
+        "titiperNo": "027",
+        "name": "Selvi Mantoni",
+        "email": "soonyxungie.purpose@gmail.com",
+        "phoneNo": "08992529412",
+        "twitter": "SOONY0UNGIE",
+        "contacts": [
+          {
+            "type": "Twitter",
+            "id": "SOONY0UNGIE",
+            "url": "https://x.com/SOONY0UNGIE"
+          },
+          {
+            "type": "Line",
+            "id": "selvimantoni",
+            "url": "http://line.me/ti/p/~selvimantoni"
+          }
+        ],
+        "driveLink": "https://drive.google.com/drive/folders/1rug53x5BqI811f664EN7JOt6ljoety8Y?usp=drive_link"
+      }
+    ]
+  }
+  
